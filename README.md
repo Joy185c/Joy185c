@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./github-cover.svg" width="100%" alt="Joy Sarkar — Midnight Coding Setup"/>
 </p>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/stars/Joy185c?label=STARS&style=flat-square&logo=github&color=38bdf8&labelColor=0B1220&affiliations=OWNER" alt="Stars"/>
 </p>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./divider (1).svg" width="100%" alt=""/>
 
 ## About
 
@@ -43,16 +43,16 @@ const joy = {
 
 <table>
   <tr>
-    <td width="50%"><img src="./focus-1-ai.svg" width="100%" alt="AI Engineering"/></td>
-    <td width="50%"><img src="./focus-2-web.svg" width="100%" alt="Web Development"/></td>
+    <td width="50%"><img src="./focus-1-ai (1).svg" width="100%" alt="AI Engineering"/></td>
+    <td width="50%"><img src="./focus-2-web (1).svg" width="100%" alt="Web Development"/></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./focus-3-design.svg" width="100%" alt="UI/UX and Design"/></td>
-    <td width="50%"><img src="./focus-4-product.svg" width="100%" alt="Product Building"/></td>
+    <td width="50%"><img src="./focus-3-design (1).svg" width="100%" alt="UI/UX and Design"/></td>
+    <td width="50%"><img src="./focus-4-product (1).svg" width="100%" alt="Product Building"/></td>
   </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./divider (1).svg" width="100%" alt=""/>
 
 ## Tech Arsenal
 
@@ -91,16 +91,16 @@ const joy = {
 
 <table>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-01-tender-bd.svg" width="100%" alt="Tender BD"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-02-upay-impactiq.svg" width="100%" alt="Upay ImpactIQ"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="././project-01-tender-bd (1).svg" width="100%" alt="Tender BD"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-02-upay-impactiq (1).svg" width="100%" alt="Upay ImpactIQ"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-03-eduvision-ai.svg" width="100%" alt="EduVision AI"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-04-whitebox-ai.svg" width="100%" alt="WhiteBox AI"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-03-eduvision-ai (1).svg" width="100%" alt="EduVision AI"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-04-whitebox-ai (1).svg" width="100%" alt="WhiteBox AI"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-05-qr-dine.svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-06-reverb.svg" width="100%" alt="REVERB"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-05-qr-dine (1).svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-06-reverb (1).svg" width="100%" alt="REVERB"/></a></td>
   </tr>
 </table>
 
@@ -109,7 +109,7 @@ const joy = {
   <a href="https://github.com/Joy185c?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./divider (1).svg" width="100%" alt=""/>
 
 ## GitHub Overview
 
@@ -132,12 +132,12 @@ const joy = {
 
 ## Currently Growing
 
-- Strengthening programming fundamentals and problem-solving
-- Building practical full-stack applications
-- Exploring LLMs, RAG, AI agents, and intelligent workflows
-- Learning software architecture, testing, and deployment
-- Improving responsive UI/UX and product design
-- Turning early-stage ideas into usable digital products
+* Strengthening programming fundamentals and problem-solving
+* Building practical full-stack applications
+* Exploring LLMs, RAG, AI agents, and intelligent workflows
+* Learning software architecture, testing, and deployment
+* Improving responsive UI/UX and product design
+* Turning early-stage ideas into usable digital products
 
 ## Beyond Code
 
@@ -147,7 +147,7 @@ My graphic design background influences how I approach software: I care about no
 
 > Great software solves problems. Great design makes solutions intuitive. Great engineering makes them reliable.
 
-<img src=".divider.svg" width="100%" alt=""/>
+<img src="./divider (1).svg" width="100%" alt=""/>
 
 ## Let's Connect
 
@@ -158,5 +158,5 @@ My graphic design background influences how I approach software: I care about no
 </p>
 
 <p align="center">
-  <img src="./ocean-footer.svg" width="100%" alt="Midnight ocean — thanks for visiting"/>
+  <img src="./ocean-footer (1).svg" width="100%" alt="Midnight ocean — thanks for visiting"/>
 </p>
