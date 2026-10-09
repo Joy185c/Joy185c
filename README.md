@@ -43,12 +43,12 @@ const joy = {
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/focus-1-ai.svg" width="100%" alt="AI Engineering"/></td>
-    <td width="50%"><img src="./assets/focus-2-web.svg" width="100%" alt="Web Development"/></td>
+    <td width="50%"><img src="./focus-1-ai.svg" width="100%" alt="AI Engineering"/></td>
+    <td width="50%"><img src="./focus-2-web.svg" width="100%" alt="Web Development"/></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/focus-3-design.svg" width="100%" alt="UI/UX and Design"/></td>
-    <td width="50%"><img src="./assets/focus-4-product.svg" width="100%" alt="Product Building"/></td>
+    <td width="50%"><img src="./focus-3-design.svg" width="100%" alt="UI/UX and Design"/></td>
+    <td width="50%"><img src="./focus-4-product.svg" width="100%" alt="Product Building"/></td>
   </tr>
 </table>
 
@@ -91,16 +91,16 @@ const joy = {
 
 <table>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-01-tender-bd.svg" width="100%" alt="Tender BD"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-02-upay-impactiq.svg" width="100%" alt="Upay ImpactIQ"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-01-tender-bd.svg" width="100%" alt="Tender BD"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-02-upay-impactiq.svg" width="100%" alt="Upay ImpactIQ"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-03-eduvision-ai.svg" width="100%" alt="EduVision AI"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-04-whitebox-ai.svg" width="100%" alt="WhiteBox AI"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-03-eduvision-ai.svg" width="100%" alt="EduVision AI"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-04-whitebox-ai.svg" width="100%" alt="WhiteBox AI"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-05-qr-dine.svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./assets/project-06-reverb.svg" width="100%" alt="REVERB"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-05-qr-dine.svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
+    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-06-reverb.svg" width="100%" alt="REVERB"/></a></td>
   </tr>
 </table>
 
