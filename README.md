@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joysarkar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-joysarkar.netlify.app-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
+  <a href="https://joykumaryuv.me/"><img src="https://img.shields.io/badge/PORTFOLIO-joykumaryuv.me-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
   <a href="https://github.com/Joy185c"><img src="https://img.shields.io/badge/GITHUB-Joy185c-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.behance.net/joysarkar42"><img src="https://img.shields.io/badge/BEHANCE-Design%20Portfolio-0B1220?style=for-the-badge&logo=behance&logoColor=38BDF8" alt="Behance"/></a>
 </p>
@@ -91,15 +91,15 @@ const joy = {
 
 <table>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="././project-01-tender-bd (1).svg" width="100%" alt="Tender BD"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-02-upay-impactiq (1).svg" width="100%" alt="Upay ImpactIQ"/></a></td>
+    <td width="50%"><a href="https://tenderbd.vercel.app/"><img src="././project-01-tender-bd (1).svg" width="100%" alt="Tender BD"/></a></td>
+    <td width="50%"><a href="https://upaybd.vercel.app/"><img src="./project-02-upay-impactiq (1).svg" width="100%" alt="Upay ImpactIQ"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-03-eduvision-ai (1).svg" width="100%" alt="EduVision AI"/></a></td>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-04-whitebox-ai (1).svg" width="100%" alt="WhiteBox AI"/></a></td>
+    <td width="50%"><a href="https://eduvisiondiu.netlify.app/"><img src="./project-03-eduvision-ai (1).svg" width="100%" alt="EduVision AI"/></a></td>
+    <td width="50%"><a href="https://continuumx.netlify.app/"><img src="./project-04-whitebox-ai (1).svg" width="100%" alt="WhiteBox AI"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-05-qr-dine (1).svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
+    <td width="50%"><a href="https://qrdinee.netlify.app/"><img src="./project-05-qr-dine (1).svg" width="100%" alt="QR-Dine / TableFlow"/></a></td>
     <td width="50%"><a href="https://joysarkar.netlify.app"><img src="./project-06-reverb (1).svg" width="100%" alt="REVERB"/></a></td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ My graphic design background influences how I approach software: I care about no
 ## Let's Connect
 
 <p align="center">
-  <a href="https://joysarkar.netlify.app"><img src="https://img.shields.io/badge/Website-Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/></a>
+  <a href="https://joykumaryuv.me"><img src="https://img.shields.io/badge/Website-Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/></a>
   <a href="https://github.com/Joy185c"><img src="https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.behance.net/joysarkar42"><img src="https://img.shields.io/badge/Behance-Design%20Portfolio-0B1220?style=for-the-badge&logo=behance&logoColor=38BDF8" alt="Behance"/></a>
 </p>
