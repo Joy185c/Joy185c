@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/stars/Joy185c?label=STARS&style=flat-square&logo=github&color=38bdf8&labelColor=0B1220&affiliations=OWNER" alt="Stars"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## About
 
@@ -37,7 +37,7 @@ const joy = {
 };
 ```
 
-<img src="./assets/divider-spider.svg" width="100%" alt=""/>
+<img src="./divider-spider.svg" width="100%" alt=""/>
 
 ## What I Do
 
@@ -52,7 +52,7 @@ const joy = {
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Tech Arsenal
 
@@ -85,7 +85,7 @@ const joy = {
 
 <p align="center"><i>I'm continuously learning and improving. My proficiency varies across these tools and technologies.</i></p>
 
-<img src="./assets/divider-spider.svg" width="100%" alt=""/>
+<img src="./divider-spider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -109,7 +109,7 @@ const joy = {
   <a href="https://github.com/Joy185c?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## GitHub Overview
 
@@ -128,7 +128,7 @@ const joy = {
 
 <p align="center"><i>GitHub statistics are rendered by external services and may occasionally be unavailable.</i></p>
 
-<img src="./assets/divider-spider.svg" width="100%" alt=""/>
+<img src="./divider-spider.svg" width="100%" alt=""/>
 
 ## Currently Growing
 
@@ -147,7 +147,7 @@ My graphic design background influences how I approach software: I care about no
 
 > Great software solves problems. Great design makes solutions intuitive. Great engineering makes them reliable.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src=".divider.svg" width="100%" alt=""/>
 
 ## Let's Connect
 
@@ -158,5 +158,5 @@ My graphic design background influences how I approach software: I care about no
 </p>
 
 <p align="center">
-  <img src="./assets/ocean-footer.svg" width="100%" alt="Midnight ocean — thanks for visiting"/>
+  <img src="./ocean-footer.svg" width="100%" alt="Midnight ocean — thanks for visiting"/>
 </p>
